@@ -5,7 +5,7 @@
 [Задание](https://docs.google.com/document/d/19MNbA9birxSfkVOEb3W8wa4POsZn5gQRHnWgERd_W1E/edit)
 
 ## Инструкция по сборке и запуску проекта
-В случае отсутсвия poetry рекомендуется использоваться версию `[1.0.0]` 
+В случае отсутсвия poetry рекомендуется использовать версию `[1.0.0]` 
 ```sh
 $ pip install poetry==1.0.0
 ```  
