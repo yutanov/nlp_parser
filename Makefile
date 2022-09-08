@@ -1,7 +1,7 @@
 full-install:
 	poetry install
 	poetry build
-	python3 -m pip install --user dist/*.whl
+	python3 -m pip install dist/*.whl
 install:
 	poetry install
 csv-parser-run:
@@ -13,7 +13,7 @@ csv-parser-alt:
 build:
 	poetry build
 package-install:
-	python3 -m pip install --user dist/*.whl
+	python3 -m pip install dist/*.whl
 package-reinstall:
 	python3 -m pip install --force-reinstall dist/*.whl
 build-reinstall:
